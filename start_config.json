@@ -1,0 +1,11 @@
+{
+  "host_ip": "172.17.167.108",
+
+  "pi_user": "chengjindu",
+  "pi_ip":   "172.17.167.150",
+
+  "stream_type": "mjpg",
+
+  "mjpg_url": "http://172.17.167.150:8080/?action=stream",
+  "gst_port": 5000
+}

@@ -1,0 +1,3 @@
+[console_scripts]
+calibrate_matrix = gelwedge_demo_ros2.transformation_matrix_calculation:main
+gelwedge_demo_node = gelwedge_demo_ros2.gelwedge_demo_node:main
